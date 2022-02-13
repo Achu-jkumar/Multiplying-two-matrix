@@ -6,10 +6,15 @@ To multiply two arrays using numpy.
 ## ALGORITHM:
 
 ### Step 1:
+Import numpy.
 ### Step 2:
+Get the input as array.
 ### Step 3:
+Append it to a empty list.
 ### Step 4:
+Multiply the two arrays.
 ### Step 5:
+Print it.
 
 ## PROGRAM: 
 ```
